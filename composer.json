@@ -8,6 +8,7 @@
         "topthink/framework": "~6.0"
     },
     "license": "MIT",
+    "minimum-stability":"stable",
     "authors": [{
         "name": "耐小心",
         "email": "qiqizjl@qq.com"

@@ -8,7 +8,7 @@ ThinkPHP5.1(中间件要求支持ThinkPHP5.1.6+)
 
 ## 安装
 ~~~
-composer require naixiaoxin/think-wechat 
+composer require longa30/think-wechat 
 ~~~
 
 ## 配置
