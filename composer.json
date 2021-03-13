@@ -1,5 +1,5 @@
 {
-    "name": "naixiaoxin/think-wechat",
+    "name": "longa30/think-wechat",
     "description": "EasyWechat For Thnkphp6.0+",
     "type": "think-extend",
     "keywords": ["wechat", "weixin","easywechat","thinkphp","think", "sdk"],
@@ -14,7 +14,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "Naixiaoxin\\ThinkWechat\\": "src/"
+            "longa30\\ThinkWechat\\": "src/"
         },
         "files": [
             "src/helper.php"
