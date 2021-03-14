@@ -5,4 +5,6 @@
  */
 
 //加入Hook
-\think\facade\Event::trigger('app_init',\Naixiaoxin\ThinkWechat\Behavior\AppInit::class);
+\think\facade\Event::listen('app_init',\Naixiaoxin\ThinkWechat\Behavior\AppInit::class);
+
+//\think\facade\Hook::add('app_init', \Naixiaoxin\ThinkWechat\Behavior\AppInit::class);
